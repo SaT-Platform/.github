@@ -1,18 +1,22 @@
-## SaT - Platform (em construção)
+# SaT - Platform (em construção)
 
 Esse projeto nasceu com o objetivo de transformar nossos conhecimentos obtidos em livros e cursos em uma aplicação completa que visa facilitar a vida de professores particulares e estudantes de forma totalmente gratuita.
 
-### Equipe
+## Equipe
 - Backend: [Francisco Angelo](https://github.com/franciscofeo)
 - Frontend: [Marcel Féo](https://github.com/MarcelFeo)
 
-### Visão Geral do Sistema
+## Visão Geral do Sistema
 
 Através do modelo de documentação de arquitetura conhecido como C4 Model é possível conhecer com mais detalhes os microsserviços utilizados pelo sistema e como é o seu comportamento nos principais fluxos clicando nesse [link](https://s.icepanel.io/oP9fNKVVH1).
 
 ![image](https://user-images.githubusercontent.com/64324517/187036497-4fe90423-a12f-4411-be2c-4ab926603ed3.png)
 
+## Documentação
 
+- [Microserviço responsável pelo gerenciamento de **usuários** (Odin)](https://foolish-vampirebat-20.redoc.ly/)
+- [Microserviço responsável pelo gerenciamento das **aulas** (Mimir)](https://bitter-octopus-71.redoc.ly/)
+- [Microserviço responsável pelo gerenciamento das **transações** (Njord)](https://hot-bobcat-13.redoc.ly/)
 <!--
 
 **Here are some ideas to get you started:**
