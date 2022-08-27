@@ -8,7 +8,7 @@ Esse projeto nasceu com o objetivo de transformar nossos conhecimentos obtidos e
 
 ### Visão Geral do Sistema
 
-Através do modelo de documentação de arquitetura conhecido como C4 Model, é possível conhecer com mais detalhes os microsserviços utilizados pelo sistema e como é o seu comportamento nos principais fluxos clicando nesse [link](https://s.icepanel.io/oP9fNKVVH1).
+Através do modelo de documentação de arquitetura conhecido como C4 Model é possível conhecer com mais detalhes os microsserviços utilizados pelo sistema e como é o seu comportamento nos principais fluxos clicando nesse [link](https://s.icepanel.io/oP9fNKVVH1).
 
 ![image](https://user-images.githubusercontent.com/64324517/187036497-4fe90423-a12f-4411-be2c-4ab926603ed3.png)
 
