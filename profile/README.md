@@ -1,6 +1,6 @@
 ## SaT - Platform (em construção)
 
-Esse projeto nasceu com o objetivo de transformar nossos conhecimentos obtidos em livros e cursos em uma aplicação completa que visa facilitar a vida de professores particulares e estudantes de firna totalmente gratuita.
+Esse projeto nasceu com o objetivo de transformar nossos conhecimentos obtidos em livros e cursos em uma aplicação completa que visa facilitar a vida de professores particulares e estudantes de forma totalmente gratuita.
 
 ### Equipe
 - Backend: [Francisco Angelo](https://github.com/franciscofeo)
