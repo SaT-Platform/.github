@@ -14,9 +14,9 @@ Through the architecture documentation model known as C4 Model, it is possible t
 
 ## Documentation
 
-- [Microserviço responsável pelo gerenciamento de **usuários** (Odin)](https://foolish-vampirebat-20.redoc.ly/)
-- [Microserviço responsável pelo gerenciamento das **aulas** (Mimir)](https://bitter-octopus-71.redoc.ly/)
-- [Microserviço responsável pelo gerenciamento das **transações** (Njord)](https://hot-bobcat-13.redoc.ly/)
+- [**Users** Microservice (Odin)](https://foolish-vampirebat-20.redoc.ly/)
+- [**Lessons** Microservice (Mimir)](https://bitter-octopus-71.redoc.ly/)
+- [**Transactions** Microservice (Njord)](https://hot-bobcat-13.redoc.ly/)
 <!--
 
 **Here are some ideas to get you started:**
