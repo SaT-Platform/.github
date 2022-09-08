@@ -1,4 +1,4 @@
-# SaT - Platform (em construção)
+# SaT - Platform
 
 This project was born with the aim of transforming our knowledge obtained from books and courses into a complete application that aims to make life easier for private teachers and students, completely free of charge.
 
@@ -6,7 +6,7 @@ This project was born with the aim of transforming our knowledge obtained from b
 - Backend: [Francisco Angelo](https://github.com/franciscofeo)
 - Frontend: [Marcel Féo](https://github.com/MarcelFeo)
 
-## Visão Geral do Sistema
+## System Overview
 
 Through the architecture documentation model known as C4 Model, it is possible to know in more detail the microservices used by the system and how it behaves in the main flows by clicking on this [link](https://s.icepanel.io/oP9fNKVVH1).
 
